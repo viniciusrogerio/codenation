@@ -1,4 +1,4 @@
-[Clique para acesso rápido ao código](https://github.com/viniciusrogerio/codenation/tree/master/modulo-1/java-13)
+[Clique para acesso rápido ao código](https://github.com/viniciusrogerio/codenation/blob/master/modulo-1/java-13/src/main/java/br/com/codenation/calculadora/CalculadoraSalario.java)
 
 # Calculadora de Salário Líquido
 
