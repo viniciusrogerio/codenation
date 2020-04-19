@@ -1,3 +1,5 @@
+[Clique para acesso rápido ao código](https://github.com/viniciusrogerio/codenation/blob/master/java-0/src/main/java/br/com/codenation/desafioexe/DesafioApplication.java)
+
 # Fibonacci
 
 Faça um método `@Desafio("Fibonacci")` que retorne uma lista `java.util.List` com os primeiro números `Integer` da série de *Fibonacci* até *passar* de *350*.
