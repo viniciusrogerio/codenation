@@ -1,4 +1,4 @@
-[Clique para acesso rápido ao código](https://github.com/viniciusrogerio/codenation/blob/master/java-0/src/main/java/br/com/codenation/desafioexe/DesafioApplication.java)
+[Clique para acesso rápido ao código](https://github.com/viniciusrogerio/codenation/tree/master/modulo-1/java-0)
 
 # Fibonacci
 
